@@ -1,0 +1,36 @@
+* {
+  -ms-overflow-style: none;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+a {
+  color: aliceblue !important;
+}
+@media (min-width: 600px) {
+  .css-1t29gy6-MuiToolbar-root {
+    padding-left: 0 !important;
+    padding-right: 0 !important;
+  }
+}
+.css-1t29gy6-MuiToolbar-root {
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.css-1jybbuy {
+  margin-left: 0 !important;
+}
+.css-5ifr5y-MuiDrawer-docked .MuiDrawer-paper,
+.css-5ifr5y-MuiDrawer-docked .MuiDrawer-paper {
+  box-sizing: border-box;
+  width: 222px;
+  background-color: rgb(25 118 210) !important;
+  color: white;
+}
+
+.css-5ifr5y-MuiDrawer-docked .MuiDrawer-paper {
+  box-sizing: border-box;
+  width: 222px;
+  background-color: rgb(25 118 210) !important;
+  color: white;
+}
