@@ -6,11 +6,11 @@ const firebaseConfig = {
   // messagingSenderId: process.env.REACT_APP_MESSAGING_SENDER_ID,
   // appId: process.env.REACT_APP_APP_ID,
 
-  apiKey: "AIzaSyBAg4oSD0v4mEPwbfbrefZ1ufkoEIURO5g",
-  authDomain: "doctors-portal-0001.firebaseapp.com",
-  projectId: "doctors-portal-0001",
-  storageBucket: "doctors-portal-0001.appspot.com",
-  messagingSenderId: "371270931308",
-  appId: "1:371270931308:web:795ce7a2a974ca4d1d1949",
+  apiKey: "AIzaSyCn1_ZSUKcjyoDr2jRU8kOt94Wo-W8pwD0",
+  authDomain: "drivectrl-official.firebaseapp.com",
+  projectId: "drivectrl-official",
+  storageBucket: "drivectrl-official.appspot.com",
+  messagingSenderId: "1047457074901",
+  appId: "1:1047457074901:web:39b5b2e23ebd91a6a55c5c",
 };
 export default firebaseConfig;
