@@ -1,4 +1,4 @@
-# DRIVECTRL link [https://drivectrl-official.web.app/](https://drivectrl-official.web.app/)
+# DRIVECTRL [link](https://drivectrl-official.web.app/)
 
 * This is a full-stack car sealing website.
 
