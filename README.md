@@ -28,5 +28,3 @@ delete update products and also manage orders.
 * firebase
 
 * mongodb
-# niche-website-client-side-Alif-001
-
